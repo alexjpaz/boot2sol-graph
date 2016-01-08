@@ -14,6 +14,7 @@ os.system('git reset --hard origin/master')
 p = os.popen('git log --format=%H', "r")
 
 data.commits = []
+data.graph = []
 
 while 1:
   line = p.readline()
@@ -36,11 +37,16 @@ while 1:
 
     commit.size = os.path.getsize('boot.bin')
 
+    data.graph.append([
+      commit.size,
+      commit.sha,
+      commit.message
+    ])
+
   except Exception, e:
     commit.error = str(e)
 
   data.commits.append(commit.__dict__)
-
 
 
 
