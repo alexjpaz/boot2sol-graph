@@ -1,48 +1,111 @@
 <html>
+  <head>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+  </head>
   <body>
+    <div app class='container'>
+      <div id='chart_div'></div>
+      <table class='table table-bordered'>
+        <tbody ng-repeat='commit in data.commits'>
+          <tr>
+            <td>
+              {{ commit.message }}</pre>
+            </td>
+            <td>
+              {{ commit.size }}
+            </td>
+            <td>
+              <a ng-href='https://github.com/masneyb/boot2sol/commit/{{ commit.sha }}'>{{ commit.sha.slice(0,8) }}</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <div id="chart_div"></div>
+    <script src='https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.0/angular.min.js'></script>
     <script>
-      google.charts.load('current', {packages: ['corechart', 'line']});
-      google.charts.setOnLoadCallback(drawBasic);
+      angular.module('app', [])
+      .directive('app', function() {
+        return {
+          controllerAs: 'vm',
+          controller: function($scope, $http) {
+            var m = $scope;
+            $http.get('data.json').then(function(rsp) {
+              m.data = rsp.data;
 
-      var arrayData = [];
+              google.charts.load('current', {packages: ['corechart', 'line']});
+              google.charts.setOnLoadCallback(drawBasic);
 
-      function drawBasic() {
+              function drawBasic() {
 
-        var data = new google.visualization.DataTable();
-        data.addColumn('number', 'size');
-        data.addColumn('string', 'commit');
-        data.addColumn('string', 'message');
+                var data = new google.visualization.DataTable();
 
-        data.addRows(arrayData);
+                data.addColumn('number', 'time');
+                data.addColumn({ type: 'string', role: 'tooltip' });
+                data.addColumn('number', 'size');
+                data.addColumn('number', 'max');
 
-        var options = {
-          hAxis: {
-            title: 'Time'
-          },
-          vAxis: {
-            title: 'Size'
+                angular.forEach(m.data.commits, function(commit, index) {
+                  data.addRow([
+                  index,
+                  '' + commit.size + ': ' + commit.message,
+                  commit.size,
+                  512,
+                  ]);
+                });
+
+                var options = {
+                  series: {
+                    0: { },
+                    1: {
+                      lineDashStyle: [4, 4]
+
+                      },
+                    },
+                  hAxis: {
+                    title: 'Time'
+                    },
+                    vAxis: {
+                      title: 'Popularity'
+                      },
+
+                      crosshair: {
+                        trigger: 'both',
+                        orientation: 'vertical'
+                        },
+                        focusTarget: 'category',
+                        height: 480
+
+                        };
+
+
+                    var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+
+                    function selectHandler() {
+                      var selectedItem = chart.getSelection()[0];
+                      if (selectedItem) {
+                        var value = data.getValue(selectedItem.row, selectedItem.column);
+                        alert('The user selected ' + value);
+                      }
+                    }
+
+                    // Listen for the 'select' event, and call my function selectHandler() when
+                    // the user selects something on the chart.
+                    google.visualization.events.addListener(chart, 'select', selectHandler);
+
+
+                    chart.draw(data, options);
+                  }
+            });
           }
-        };
-      }
-
-      var request = new XMLHttpRequest();
-      request.open('GET', '/data.json', true);
-
-      request.onload = function() {
-        if (request.status >= 200 && request.status < 400) {
-          // Success!
-          var data = JSON.parse(request.responseText);
-          arrayData = data.graph;
-          console.log(data);
-          var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
-          chart.draw(arrayData, options);
         }
-        };
+      })
+      ;
 
-        request.send();
-
-        </script>
-      </body>
-    </html>
+      angular.bootstrap(document, ['app']);
+    </script>
+    <script type="text/ng-template" id="/tpl.html">
+        Content of the template.
+      </script>
+  </body>
+</html>i

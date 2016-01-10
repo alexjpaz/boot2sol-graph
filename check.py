@@ -26,7 +26,7 @@ while 1:
   os.system('git clean -fd')
   os.system('git reset --hard ' + commit.sha)
 
-  commit.message = os.popen("git log --format=%B", "r").read()
+  commit.message = os.popen("git log -1 --format=%B HEAD", "r").read()
 
 
   try:
@@ -38,6 +38,7 @@ while 1:
     commit.size = os.path.getsize('boot.bin')
 
     data.graph.append([
+      len(data.graph),
       commit.size,
       commit.sha,
       commit.message
@@ -49,7 +50,7 @@ while 1:
   data.commits.append(commit.__dict__)
 
 
-
+data.commits.reverse()
 
 with open('../data.json', 'w') as outfile:
   json.dump(data.__dict__, outfile, sort_keys = True, indent = 4, ensure_ascii=False)
