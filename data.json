@@ -3,77 +3,77 @@
         {
             "message": "initial commit\n\n", 
             "sha": "59f1f12f5eee957b66db10023ddbe29024d204f1", 
-            "size": 512
+            "size": 72
         }, 
         {
             "message": "added bit mask\n\n", 
             "sha": "37f0951e23003fde395623846b030a07f9b286ad", 
-            "size": 516
+            "size": 76
         }, 
         {
             "message": "needs to be exactly 512 bytes\n\n", 
             "sha": "747283972806a116590d30512b3379325b1843f5", 
-            "size": 512
+            "size": 76
         }, 
         {
             "message": "Update boot.asm\n\nupdated card data layout\n", 
             "sha": "8708d9131c1ee04f25aa996ec7f5271d447933e2", 
-            "size": 512
+            "size": 76
         }, 
         {
             "message": "add support for fetching some values\n\n", 
             "sha": "091c0f1374f1e62bd619319475c04a1e23516605", 
-            "size": 512
+            "size": 76
         }, 
         {
             "message": "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n", 
             "sha": "c8524716ef28265f7958f0f0d4a66b80b95e3bf3", 
-            "size": 512
+            "size": 76
         }, 
         {
             "message": "Add print function\n\n", 
             "sha": "d3c982c94f2c03e066efa2adf6cb54b07d04ff14", 
-            "size": 512
+            "size": 45
         }, 
         {
             "message": "Merge branch 'master' of github.com:masneyb/boot2sol\n\n", 
             "sha": "623a982261cd1e91051bc594ab0e0e949cccf91f", 
-            "size": 512
+            "size": 49
         }, 
         {
             "message": "Merge branch 'master' of github.com:masneyb/boot2sol\n\n", 
             "sha": "49168c8dfe463240577d9081d8a0198d5c193093", 
-            "size": 512
+            "size": 49
         }, 
         {
             "message": "make a little more interesting\n\n", 
             "sha": "e279a69b1e4378865154b99a24c47721685abd93", 
-            "size": 512
+            "size": 76
         }, 
         {
             "message": "added remaining getters\n\n", 
             "sha": "4bec7443470f9297d2fcac02a778890a7ec7ca14", 
-            "size": 512
+            "size": 76
         }, 
         {
             "message": "fixed warning, added second card\n\n", 
             "sha": "79da9dca8dc4f6044f235598f4cbae24730eb5c8", 
-            "size": 512
+            "size": 95
         }, 
         {
             "message": "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n", 
             "sha": "2c7d5819e88539e2455c61d38870d55bfc2530a8", 
-            "size": 512
+            "size": 68
         }, 
         {
             "message": "added remaining getters\n\n", 
             "sha": "87f25a1c8245e40cdcfad07c659c10c979ad1bf8", 
-            "size": 512
+            "size": 95
         }, 
         {
             "message": "Add print_card\n\n", 
             "sha": "8a7a53b1b7b4f7dc8de3a9e48d3ed873ec64b9d3", 
-            "size": 512
+            "size": 121
         }, 
         {
             "error": "[Errno 2] No such file or directory: 'boot.bin'", 
@@ -83,47 +83,47 @@
         {
             "message": "Remove duplicate symobl\n\n", 
             "sha": "7b127b91a01e6774ec545d12f5f0bef0b7e20e9b", 
-            "size": 512
+            "size": 121
         }, 
         {
             "message": "Create README.md\n", 
             "sha": "501edcdf72f5ed0a998beaabe69995ba173fcc10", 
-            "size": 512
+            "size": 121
         }, 
         {
             "message": "subroutine for printing the game board\n\n", 
             "sha": "3d7a8ba0262462e40a7266183f96fc0cf2067a12", 
-            "size": 512
+            "size": 49
         }, 
         {
             "message": "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n", 
             "sha": "af690adc37072dd6d53151b408c85f9ad558a0f2", 
-            "size": 512
+            "size": 121
         }, 
         {
             "message": "adding draw_board subroutine to boot.asm\n\n", 
             "sha": "d1c51947f4bfab49288399646cc38f4c19405a51", 
-            "size": 512
+            "size": 258
         }, 
         {
             "message": "Simplify print\n\n", 
             "sha": "2cd40ceec03f3c479114fe8a6e1d268630af244e", 
-            "size": 512
+            "size": 138
         }, 
         {
             "message": "Merge branch 'master' of github.com:masneyb/boot2sol\n\n", 
             "sha": "97df476cecbac6e1281f13dee5fa994a23ebb84f", 
-            "size": 512
+            "size": 275
         }, 
         {
             "message": "Fix print card\n\n", 
             "sha": "d49d29397adadc722e97f0242d8e878cb39f4c6f", 
-            "size": 512
+            "size": 274
         }, 
         {
             "message": "minor cleanups\n\n", 
             "sha": "0289498311937408a03712139833051e236fcf4a", 
-            "size": 512
+            "size": 294
         }, 
         {
             "error": "[Errno 2] No such file or directory: 'boot.bin'", 
@@ -138,7 +138,7 @@
         {
             "message": "Add user input loop\n\n", 
             "sha": "709ea32d39d8ade7a5a3bd46d0231bcac09fd3e3", 
-            "size": 512
+            "size": 340
         }, 
         {
             "error": "[Errno 2] No such file or directory: 'boot.bin'", 
@@ -166,19 +166,19 @@
             "sha": "5261e89efee38487af3ce0568c9d6339ce3421cd"
         }, 
         {
-            "error": "[Errno 2] No such file or directory: 'boot.bin'", 
             "message": "syntax\n\n", 
-            "sha": "ab4966014e216706955948018c6177a08283b387"
+            "sha": "ab4966014e216706955948018c6177a08283b387", 
+            "size": 572
         }, 
         {
-            "error": "[Errno 2] No such file or directory: 'boot.bin'", 
             "message": "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n", 
-            "sha": "8f15b43a1819e047e13b321a4b1c15ff8b88e1aa"
+            "sha": "8f15b43a1819e047e13b321a4b1c15ff8b88e1aa", 
+            "size": 657
         }, 
         {
             "message": "removed some unused functions\n\n", 
             "sha": "b46c9bac1de599eb4a4fd1455177097962a3b76f", 
-            "size": 512
+            "size": 411
         }, 
         {
             "error": "[Errno 2] No such file or directory: 'boot.bin'", 
@@ -188,332 +188,332 @@
         {
             "message": "shortening some more\n\n", 
             "sha": "796904029861f52e3d6b903ac5f1af0920a59f53", 
-            "size": 512
+            "size": 388
         }, 
         {
             "message": "working on print_lower_stacks\n\n", 
             "sha": "0e1b247e2a642f6329bf4ef12549360941fbb57e", 
-            "size": 512
+            "size": 394
         }, 
         {
             "message": "broke it\n\n", 
             "sha": "2d4ec9bc84c9c592fc6cee744c833b5dce8e53f0", 
-            "size": 512
+            "size": 394
         }, 
         {
             "message": "register fixes\n\n", 
             "sha": "3775f3856baa7f8c857d92c465acb39db5bdf19a", 
-            "size": 512
+            "size": 390
         }, 
         {
             "message": "syntax\n\n", 
             "sha": "620b75e791ae71a3e903009fc266997a0a578334", 
-            "size": 512
+            "size": 388
         }, 
         {
             "message": "errors\n\n", 
             "sha": "5e628eb7917f40921bebdd3d4a7e77f22f443bfd", 
-            "size": 512
+            "size": 390
         }, 
         {
             "message": "unused\n\n", 
             "sha": "09f6cc737b53208938614b44660b6ca4e553c5ea", 
-            "size": 512
+            "size": 390
         }, 
         {
             "message": "Increment draw column\n\n", 
             "sha": "51505dd74881abbf0b714064f942a27217ab4213", 
-            "size": 512
+            "size": 395
         }, 
         {
             "message": "Adding debugging notes to README\n\n", 
             "sha": "afaabda7279964b5d7b2c17d5c73715956010c58", 
-            "size": 512
+            "size": 395
         }, 
         {
             "message": "generate list of card positions in the perl script\n\n", 
             "sha": "1936c35a60795bcb29911c644c24be68fda3ac98", 
-            "size": 512
+            "size": 395
         }, 
         {
             "message": "Replaced a literal 52 with 104. Fixed off-by-one error on number of lower pile comparison.\n\n", 
             "sha": "e120fa8a2f3bd7c43d0621c704d0928a71796ed4", 
-            "size": 512
+            "size": 395
         }, 
         {
             "message": "specify a unit for all non-zero numbers\n\n", 
             "sha": "2eba25a8b2be0ffc1e0c62618412fa222d6f35d8", 
-            "size": 512
+            "size": 395
         }, 
         {
             "message": "commented out some code that isn't used yet\n\n", 
             "sha": "21433b87e53eea4da6cbcc076d1537d1c27082b5", 
-            "size": 512
+            "size": 347
         }, 
         {
             "message": "renamed some labels to make it a little cleaner\n\n", 
             "sha": "16c69ef37710ff153a84709cb87bc7ddb9a63baf", 
-            "size": 512
+            "size": 344
         }, 
         {
             "message": "removed some dead code; added some comments; made other fetch_* subroutines consistent with the others\n\n", 
             "sha": "a1b21a60584d66d0c4b93995224d5abe026e88ff", 
-            "size": 512
+            "size": 346
         }, 
         {
             "message": "added some more comments\n\n", 
             "sha": "9d19f0005ea02e3264876731f0a8290f788e758f", 
-            "size": 512
+            "size": 346
         }, 
         {
             "message": "added objdump target\n\n", 
             "sha": "0efc0c33b84e80970fc9f1105be8065c75b9670d", 
-            "size": 512
+            "size": 346
         }, 
         {
             "message": "move card pointer\n\n", 
             "sha": "c70f39b8be31618e7f69ca89814931a39a3b5302", 
-            "size": 512
+            "size": 349
         }, 
         {
             "message": "show the card value as a comment\n\n", 
             "sha": "c171f59a43971bd37108d3e9a12eb05920263699", 
-            "size": 512
+            "size": 349
         }, 
         {
             "message": "reset the card pointer when moving to the next stack\n\n", 
             "sha": "e140c5f6c6cc9a06723e678af5b8be070c29698c", 
-            "size": 512
+            "size": 352
         }, 
         {
             "message": "added support for printing out the top stacks as well\n\n", 
             "sha": "627f98dbd0cfc12fad673d814f722df33c24b628", 
-            "size": 512
+            "size": 377
         }, 
         {
             "message": "more macro cleanups\n\n", 
             "sha": "0a77e0e94df7ebf073785f66f0d1f1cd9be6f375", 
-            "size": 512
+            "size": 377
         }, 
         {
             "message": "added some fixmes\n\n", 
             "sha": "d545d0a13d65656e3ff45b6263c185dd169c68ea", 
-            "size": 512
+            "size": 377
         }, 
         {
             "message": "added support for the status messages\n\n", 
             "sha": "907a48155d1407d6150dacb7e6e81793acb181fb", 
-            "size": 512
+            "size": 424
         }, 
         {
             "message": "updated objdump syntax\n\n", 
             "sha": "0016cb13d8e2cd2c70e47e988b7497009e22c84e", 
-            "size": 512
+            "size": 424
         }, 
         {
             "message": "added status line and support for reading commands. Added support for jump tables\n\n", 
             "sha": "d8d6d1f42334dbdbd06597855f630b7ef0bdfea3", 
-            "size": 512
+            "size": 478
         }, 
         {
             "message": "Clear screen\n\n", 
             "sha": "19001f3ea7b95af59bb209ec713cea7045a8973a", 
-            "size": 512
+            "size": 484
         }, 
         {
             "message": "new data strcuture for pile format\n\n", 
             "sha": "50d4d7b90a3fae5930707fca6b41250389fea180", 
-            "size": 512
+            "size": 478
         }, 
         {
             "message": "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n", 
             "sha": "819599d305655ff63f5bf90f5362fb996d772f90", 
-            "size": 512
+            "size": 484
         }, 
         {
             "message": "Adding support for debug symbols.\n\n", 
             "sha": "1966bf3a82dbe74198a40ef75ef70a6493f28bb1", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "Merge branch 'debug-support'\n\n", 
             "sha": "06761f71e056034125db5d4594c7ffbe69c28dea", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "refactored to use new data layout\n\n", 
             "sha": "de577939a831f2a3586c992c6bfcbafb18447a7e", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "Add win state\n\n", 
             "sha": "6f8fb73171700c2966746ed5b25d8d561a64c5e9", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "Merge branch 'master' of github.com:masneyb/boot2sol\n\n", 
             "sha": "798b9e26d2f577f950a0836af92a5b93519242dc", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "Fix register reference\n\n", 
             "sha": "c615085ad5d888d96038cae5dec21ef000bead81", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "removed unneeded pusha/popa\n\n", 
             "sha": "35bea1bc7481bc98d33dda6b26007dfb51664e0e", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "Remove win check to save space\n\n", 
             "sha": "10c4013ef64734e23e65734daa5697b55e7466e9", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "Merge branch 'master' of github.com:masneyb/boot2sol\n\n", 
             "sha": "3687a67358ce7d4bc64d4c80557962ad0d30b4d3", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "Adding a separate path for debug workflow.\n\n", 
             "sha": "2b70d466516d9d1220c32df7564de74ac4cbb4f7", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "Renaming stack_pointers to pile_pointers.\n\n", 
             "sha": "5c75a452e065828db8784174584234890fc47499", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "removed unused file\n\n", 
             "sha": "5477f882c05e9fa8c862c642e0e590c1497353b5", 
-            "size": 512
+            "size": 467
         }, 
         {
             "message": "moved shown bit\n\n", 
             "sha": "233b6a9ac2682959ff3a72b6b14dfa2a2a6c98ad", 
-            "size": 512
+            "size": 470
         }, 
         {
             "message": "reduced binary size\n\n", 
             "sha": "6f396356d2b02c7044a2349b43117084adba14a1", 
-            "size": 512
+            "size": 453
         }, 
         {
             "message": "added some comments\n\n", 
             "sha": "d65ed5a45a4ff8010f5c7f7b8b9c774ce5f3ae76", 
-            "size": 512
+            "size": 453
         }, 
         {
             "message": "shortened strings a little bit\n\n", 
             "sha": "db883d5dc37fd228659d7f0efa4c5974a962af2e", 
-            "size": 512
+            "size": 449
         }, 
         {
             "message": "more space savings\n\n", 
             "sha": "31c0c4fc0f933c559cb4c1ea9f2fc58205a22c96", 
-            "size": 512
+            "size": 444
         }, 
         {
             "message": "more space savings\n\n", 
             "sha": "5b727853cd5201599b61a56ba42fe111f120297c", 
-            "size": 512
+            "size": 424
         }, 
         {
             "message": "more space savings\n\n", 
             "sha": "67f9459dc04cee4635f97abe5c74c5377e2030ab", 
-            "size": 512
+            "size": 393
         }, 
         {
             "message": "added jmp\n\n", 
             "sha": "ef52f7d182647a2d0211bb4a7d09b98911474919", 
-            "size": 512
+            "size": 394
         }, 
         {
             "message": "more space savings\n\n", 
             "sha": "b817db215a3bfaada76b29a3a18a8a1864987eff", 
-            "size": 512
+            "size": 387
         }, 
         {
             "message": "no longer needed since we aren't using the jump tables\n\n", 
             "sha": "fb0a91f6f20840c5ed3655b87477b52bb8dec0c0", 
-            "size": 512
+            "size": 382
         }, 
         {
             "message": "moved print status message to save 4 more bytes\n\n", 
             "sha": "92c8340ef8f332e5297b39a69bd3af923947bd6f", 
-            "size": 512
+            "size": 378
         }, 
         {
             "message": "saved space by simplfying the card\n\n", 
             "sha": "59292eb0089a19e7fbbd20b9f432ece7d47fb7a4", 
-            "size": 512
+            "size": 371
         }, 
         {
             "message": "size reduction\n\n", 
             "sha": "c74f681193100a6ff2766c21aaffd3da2ca03423", 
-            "size": 512
+            "size": 367
         }, 
         {
             "message": "made smaller\n\n", 
             "sha": "9afa9b7da38fdd3869d3ab95eb32f9077a2ee94c", 
-            "size": 512
+            "size": 365
         }, 
         {
             "message": "made smaller\n\n", 
             "sha": "5552f7556c2c3b4f64019f3d76e9f38959fd602c", 
-            "size": 512
+            "size": 362
         }, 
         {
             "message": "Start draw_command\n\n", 
             "sha": "120dbdbfc870c1892915a1d01c1dc3636c66f9e4", 
-            "size": 512
+            "size": 380
         }, 
         {
             "message": "Merge branch 'master' of github.com:masneyb/boot2sol\n\n", 
             "sha": "bc180eb21fa5d3be4240f317730b57f4a54192c8", 
-            "size": 512
+            "size": 375
         }, 
         {
             "message": "We can now draw a card\n\n", 
             "sha": "0e79a1ac6c212e33287e8244d860b518db18f9d1", 
-            "size": 512
+            "size": 420
         }, 
         {
             "message": "Notes\n\n", 
             "sha": "a582a8c01bc4f567d19046b697ac0c0f14e719a6", 
-            "size": 512
+            "size": 420
         }, 
         {
             "message": "made draw pile a little smaller\n\n", 
             "sha": "0803e21bbdd172b8abb215bacefb4ee23107657a", 
-            "size": 512
+            "size": 409
         }, 
         {
             "message": "moving a card from the end of one pile to another works now\n\n", 
             "sha": "debd796f60b67f8e1a1627e39e5273307e4a5695", 
-            "size": 512
+            "size": 408
         }, 
         {
             "message": "added macros for the draw pile numbers\n\n", 
             "sha": "35b3999dd7c6415d92241b099bac5f285cce309b", 
-            "size": 512
+            "size": 408
         }, 
         {
             "message": "added FIXME for the symbols\n\n", 
             "sha": "81ebb3b7f7feac1621c598dc88a91e62d526d6a6", 
-            "size": 512
+            "size": 408
         }, 
         {
             "message": "added comment\n\n", 
             "sha": "25ebb82e6ed62df9ae5b973c089d1067ca42d279", 
-            "size": 512
+            "size": 408
         }, 
         {
             "message": "draw functionality is now complete\n\n", 
             "sha": "ec4e2e6dbf206ae038cd5939826de98ebfe57411", 
-            "size": 512
+            "size": 451
         }, 
         {
             "message": "more minor space savings\n\n", 
@@ -708,102 +708,102 @@
         {
             "message": "added signature back\n\n", 
             "sha": "f9e411e709500bcafeb71919f49d1c15246e4e42", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added more documentation\n\n", 
             "sha": "6fa39ebd2e3671faa51c3f55bc312bd874084862", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added table\n\n", 
             "sha": "7a6e6a474fdce80c17a9f614adc832256d58642c", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "let's see if the table shows up\n\n", 
             "sha": "c37a5c816eb8b9017cbcd3f31c976d1ee6bba8f2", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added\n\n", 
             "sha": "4b464f2c76c43fa2c54cd57e69a3d97c4b1d35b3", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added\n\n", 
             "sha": "c677b02e16c8b601177647d03cc0ef29f7bed4e6", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "let's see if this fixes it\n\n", 
             "sha": "071a636aec533a9ec807f43bb6386e20aa090a04", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "removed pile not used\n\n", 
             "sha": "bfcb92d3a2dfafe97815f3451597043676a5c018", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added todo\n\n", 
             "sha": "499d2e2c8431868ba7d891f23270c986be57cd37", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added link to the youtube video\n\n", 
             "sha": "e4e148bb5e6efb4c5e85c9962354d98f379cd956", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "moved youtube link\n\n", 
             "sha": "40642d587a096fed89f78ec14c346b98c3ca4f91", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added example\n\n", 
             "sha": "d75f6a9dbfac70c7e33d9a837365d28352af3136", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "updated intro video text\n\n", 
             "sha": "5a175838c386d8bcbec3e4e63d16f1d367d60026", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "removed since this is in the README\n\n", 
             "sha": "847c9bdb1b7239255fbb7ac0e9f592a0f6ce21f8", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "sort names\n\n", 
             "sha": "3424b1ec4df8c3f5ef304ac008e99e3554f9cd7a", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added screenshot\n\n", 
             "sha": "fe474d6edeedcb65bd80535ccc23e099d15d99da", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "moved into the scripts directory\n\n", 
             "sha": "8fd8615ade31961e5d9f5fa4d619f5c1d78d0d17", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "minor readme updates\n\n", 
             "sha": "f919744ea2628f84157d15733fb751ccba201981", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added boot signature\n\n", 
             "sha": "f5c6df38df9327c195c0ebf35f4bd0fb2443ee5c", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "updated how to run the game\n\n", 
             "sha": "c9ab8e476b3b3f0e0b19d3324384e7bb4739e348", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "extracted out common subroutine for move_command and draw_command to reduce the binary size\n\n", 
@@ -838,32 +838,32 @@
         {
             "message": "added signature back to the end\n\n", 
             "sha": "8d84818175c20737e746c670133ae468cc305f92", 
-            "size": 512
+            "size": 507
         }, 
         {
             "message": "made code a little smaller\n\n", 
             "sha": "61b73b9a1adfceacdf5a7de3e60e08224ebee24f", 
-            "size": 512
+            "size": 503
         }, 
         {
             "message": "removed FIXME\n\n", 
             "sha": "a61cac04bd15bd7f5bc32e8d26db13b5db3e02e0", 
-            "size": 512
+            "size": 503
         }, 
         {
             "message": "saved a few more bytes; only 3 bytes away from having a full deck of cards\n\n", 
             "sha": "f4b3eeec29a2d2235633a8ac1a355b351c534669", 
-            "size": 512
+            "size": 501
         }, 
         {
             "message": "shaved off 1 byte, 2 more to go\n\n", 
             "sha": "8d1c8ae94e68e5db5408e8d0d2ec3b5cf3778d4e", 
-            "size": 512
+            "size": 500
         }, 
         {
             "message": "don't display the second - to save 2 bytes\n\n", 
             "sha": "97b04e2e1647b5f70beeb780b2a729aaddd5aca2", 
-            "size": 512
+            "size": 498
         }, 
         {
             "message": "Revert \"Revert \"we now have a full deck of cards again!\"\"\n\nThis reverts commit 6a8473e5d7f8a04fc19bb176c783d87a4914bf3f.\n\n", 
@@ -878,57 +878,57 @@
         {
             "message": "added a second dash to the hidden cards; draw pile now advances one when the piles are swapped. Down one byte overall from previous commit and added new functionality.\n\n", 
             "sha": "04ba1e987c591e992e6b619020dee6e3bc76e3bd", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "cleaned up docs\n\n", 
             "sha": "7bdd975c4541e65860d93f2dbf0ebe5b7b4be45e", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "minor cleanups\n\n", 
             "sha": "64991c07d891c4aae5beefcdee7fb2f768a49d84", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "added comments\n\n", 
             "sha": "964adb28bfbd58ee4e84a8377d4e29a95d07dfa2", 
-            "size": 512
+            "size": 511
         }, 
         {
             "message": "minor grammar improvements\n\n", 
             "sha": "a7b770a97b899b58fecdc9c231a6cb78720478b8", 
-            "size": 512
+            "size": 511
         }
     ], 
     "graph": [
         [
             0, 
-            512, 
+            511, 
             "a7b770a97b899b58fecdc9c231a6cb78720478b8", 
             "minor grammar improvements\n\n"
         ], 
         [
             1, 
-            512, 
+            511, 
             "964adb28bfbd58ee4e84a8377d4e29a95d07dfa2", 
             "added comments\n\n"
         ], 
         [
             2, 
-            512, 
+            511, 
             "64991c07d891c4aae5beefcdee7fb2f768a49d84", 
             "minor cleanups\n\n"
         ], 
         [
             3, 
-            512, 
+            511, 
             "7bdd975c4541e65860d93f2dbf0ebe5b7b4be45e", 
             "cleaned up docs\n\n"
         ], 
         [
             4, 
-            512, 
+            511, 
             "04ba1e987c591e992e6b619020dee6e3bc76e3bd", 
             "added a second dash to the hidden cards; draw pile now advances one when the piles are swapped. Down one byte overall from previous commit and added new functionality.\n\n"
         ], 
@@ -946,37 +946,37 @@
         ], 
         [
             7, 
-            512, 
+            498, 
             "97b04e2e1647b5f70beeb780b2a729aaddd5aca2", 
             "don't display the second - to save 2 bytes\n\n"
         ], 
         [
             8, 
-            512, 
+            500, 
             "8d1c8ae94e68e5db5408e8d0d2ec3b5cf3778d4e", 
             "shaved off 1 byte, 2 more to go\n\n"
         ], 
         [
             9, 
-            512, 
+            501, 
             "f4b3eeec29a2d2235633a8ac1a355b351c534669", 
             "saved a few more bytes; only 3 bytes away from having a full deck of cards\n\n"
         ], 
         [
             10, 
-            512, 
+            503, 
             "a61cac04bd15bd7f5bc32e8d26db13b5db3e02e0", 
             "removed FIXME\n\n"
         ], 
         [
             11, 
-            512, 
+            503, 
             "61b73b9a1adfceacdf5a7de3e60e08224ebee24f", 
             "made code a little smaller\n\n"
         ], 
         [
             12, 
-            512, 
+            507, 
             "8d84818175c20737e746c670133ae468cc305f92", 
             "added signature back to the end\n\n"
         ], 
@@ -1018,121 +1018,121 @@
         ], 
         [
             19, 
-            512, 
+            511, 
             "c9ab8e476b3b3f0e0b19d3324384e7bb4739e348", 
             "updated how to run the game\n\n"
         ], 
         [
             20, 
-            512, 
+            511, 
             "f5c6df38df9327c195c0ebf35f4bd0fb2443ee5c", 
             "added boot signature\n\n"
         ], 
         [
             21, 
-            512, 
+            511, 
             "f919744ea2628f84157d15733fb751ccba201981", 
             "minor readme updates\n\n"
         ], 
         [
             22, 
-            512, 
+            511, 
             "8fd8615ade31961e5d9f5fa4d619f5c1d78d0d17", 
             "moved into the scripts directory\n\n"
         ], 
         [
             23, 
-            512, 
+            511, 
             "fe474d6edeedcb65bd80535ccc23e099d15d99da", 
             "added screenshot\n\n"
         ], 
         [
             24, 
-            512, 
+            511, 
             "3424b1ec4df8c3f5ef304ac008e99e3554f9cd7a", 
             "sort names\n\n"
         ], 
         [
             25, 
-            512, 
+            511, 
             "847c9bdb1b7239255fbb7ac0e9f592a0f6ce21f8", 
             "removed since this is in the README\n\n"
         ], 
         [
             26, 
-            512, 
+            511, 
             "5a175838c386d8bcbec3e4e63d16f1d367d60026", 
             "updated intro video text\n\n"
         ], 
         [
             27, 
-            512, 
+            511, 
             "d75f6a9dbfac70c7e33d9a837365d28352af3136", 
             "added example\n\n"
         ], 
         [
             28, 
-            512, 
+            511, 
             "40642d587a096fed89f78ec14c346b98c3ca4f91", 
             "moved youtube link\n\n"
         ], 
         [
             29, 
-            512, 
+            511, 
             "e4e148bb5e6efb4c5e85c9962354d98f379cd956", 
             "added link to the youtube video\n\n"
         ], 
         [
             30, 
-            512, 
+            511, 
             "499d2e2c8431868ba7d891f23270c986be57cd37", 
             "added todo\n\n"
         ], 
         [
             31, 
-            512, 
+            511, 
             "bfcb92d3a2dfafe97815f3451597043676a5c018", 
             "removed pile not used\n\n"
         ], 
         [
             32, 
-            512, 
+            511, 
             "071a636aec533a9ec807f43bb6386e20aa090a04", 
             "let's see if this fixes it\n\n"
         ], 
         [
             33, 
-            512, 
+            511, 
             "c677b02e16c8b601177647d03cc0ef29f7bed4e6", 
             "added\n\n"
         ], 
         [
             34, 
-            512, 
+            511, 
             "4b464f2c76c43fa2c54cd57e69a3d97c4b1d35b3", 
             "added\n\n"
         ], 
         [
             35, 
-            512, 
+            511, 
             "c37a5c816eb8b9017cbcd3f31c976d1ee6bba8f2", 
             "let's see if the table shows up\n\n"
         ], 
         [
             36, 
-            512, 
+            511, 
             "7a6e6a474fdce80c17a9f614adc832256d58642c", 
             "added table\n\n"
         ], 
         [
             37, 
-            512, 
+            511, 
             "6fa39ebd2e3671faa51c3f55bc312bd874084862", 
             "added more documentation\n\n"
         ], 
         [
             38, 
-            512, 
+            511, 
             "f9e411e709500bcafeb71919f49d1c15246e4e42", 
             "added signature back\n\n"
         ], 
@@ -1366,553 +1366,565 @@
         ], 
         [
             77, 
-            512, 
+            451, 
             "ec4e2e6dbf206ae038cd5939826de98ebfe57411", 
             "draw functionality is now complete\n\n"
         ], 
         [
             78, 
-            512, 
+            408, 
             "25ebb82e6ed62df9ae5b973c089d1067ca42d279", 
             "added comment\n\n"
         ], 
         [
             79, 
-            512, 
+            408, 
             "81ebb3b7f7feac1621c598dc88a91e62d526d6a6", 
             "added FIXME for the symbols\n\n"
         ], 
         [
             80, 
-            512, 
+            408, 
             "35b3999dd7c6415d92241b099bac5f285cce309b", 
             "added macros for the draw pile numbers\n\n"
         ], 
         [
             81, 
-            512, 
+            408, 
             "debd796f60b67f8e1a1627e39e5273307e4a5695", 
             "moving a card from the end of one pile to another works now\n\n"
         ], 
         [
             82, 
-            512, 
+            409, 
             "0803e21bbdd172b8abb215bacefb4ee23107657a", 
             "made draw pile a little smaller\n\n"
         ], 
         [
             83, 
-            512, 
+            420, 
             "a582a8c01bc4f567d19046b697ac0c0f14e719a6", 
             "Notes\n\n"
         ], 
         [
             84, 
-            512, 
+            420, 
             "0e79a1ac6c212e33287e8244d860b518db18f9d1", 
             "We can now draw a card\n\n"
         ], 
         [
             85, 
-            512, 
+            375, 
             "bc180eb21fa5d3be4240f317730b57f4a54192c8", 
             "Merge branch 'master' of github.com:masneyb/boot2sol\n\n"
         ], 
         [
             86, 
-            512, 
+            380, 
             "120dbdbfc870c1892915a1d01c1dc3636c66f9e4", 
             "Start draw_command\n\n"
         ], 
         [
             87, 
-            512, 
+            362, 
             "5552f7556c2c3b4f64019f3d76e9f38959fd602c", 
             "made smaller\n\n"
         ], 
         [
             88, 
-            512, 
+            365, 
             "9afa9b7da38fdd3869d3ab95eb32f9077a2ee94c", 
             "made smaller\n\n"
         ], 
         [
             89, 
-            512, 
+            367, 
             "c74f681193100a6ff2766c21aaffd3da2ca03423", 
             "size reduction\n\n"
         ], 
         [
             90, 
-            512, 
+            371, 
             "59292eb0089a19e7fbbd20b9f432ece7d47fb7a4", 
             "saved space by simplfying the card\n\n"
         ], 
         [
             91, 
-            512, 
+            378, 
             "92c8340ef8f332e5297b39a69bd3af923947bd6f", 
             "moved print status message to save 4 more bytes\n\n"
         ], 
         [
             92, 
-            512, 
+            382, 
             "fb0a91f6f20840c5ed3655b87477b52bb8dec0c0", 
             "no longer needed since we aren't using the jump tables\n\n"
         ], 
         [
             93, 
-            512, 
+            387, 
             "b817db215a3bfaada76b29a3a18a8a1864987eff", 
             "more space savings\n\n"
         ], 
         [
             94, 
-            512, 
+            394, 
             "ef52f7d182647a2d0211bb4a7d09b98911474919", 
             "added jmp\n\n"
         ], 
         [
             95, 
-            512, 
+            393, 
             "67f9459dc04cee4635f97abe5c74c5377e2030ab", 
             "more space savings\n\n"
         ], 
         [
             96, 
-            512, 
+            424, 
             "5b727853cd5201599b61a56ba42fe111f120297c", 
             "more space savings\n\n"
         ], 
         [
             97, 
-            512, 
+            444, 
             "31c0c4fc0f933c559cb4c1ea9f2fc58205a22c96", 
             "more space savings\n\n"
         ], 
         [
             98, 
-            512, 
+            449, 
             "db883d5dc37fd228659d7f0efa4c5974a962af2e", 
             "shortened strings a little bit\n\n"
         ], 
         [
             99, 
-            512, 
+            453, 
             "d65ed5a45a4ff8010f5c7f7b8b9c774ce5f3ae76", 
             "added some comments\n\n"
         ], 
         [
             100, 
-            512, 
+            453, 
             "6f396356d2b02c7044a2349b43117084adba14a1", 
             "reduced binary size\n\n"
         ], 
         [
             101, 
-            512, 
+            470, 
             "233b6a9ac2682959ff3a72b6b14dfa2a2a6c98ad", 
             "moved shown bit\n\n"
         ], 
         [
             102, 
-            512, 
+            467, 
             "5477f882c05e9fa8c862c642e0e590c1497353b5", 
             "removed unused file\n\n"
         ], 
         [
             103, 
-            512, 
+            467, 
             "5c75a452e065828db8784174584234890fc47499", 
             "Renaming stack_pointers to pile_pointers.\n\n"
         ], 
         [
             104, 
-            512, 
+            467, 
             "2b70d466516d9d1220c32df7564de74ac4cbb4f7", 
             "Adding a separate path for debug workflow.\n\n"
         ], 
         [
             105, 
-            512, 
+            467, 
             "3687a67358ce7d4bc64d4c80557962ad0d30b4d3", 
             "Merge branch 'master' of github.com:masneyb/boot2sol\n\n"
         ], 
         [
             106, 
-            512, 
+            467, 
             "10c4013ef64734e23e65734daa5697b55e7466e9", 
             "Remove win check to save space\n\n"
         ], 
         [
             107, 
-            512, 
+            467, 
             "35bea1bc7481bc98d33dda6b26007dfb51664e0e", 
             "removed unneeded pusha/popa\n\n"
         ], 
         [
             108, 
-            512, 
+            467, 
             "c615085ad5d888d96038cae5dec21ef000bead81", 
             "Fix register reference\n\n"
         ], 
         [
             109, 
-            512, 
+            467, 
             "798b9e26d2f577f950a0836af92a5b93519242dc", 
             "Merge branch 'master' of github.com:masneyb/boot2sol\n\n"
         ], 
         [
             110, 
-            512, 
+            467, 
             "6f8fb73171700c2966746ed5b25d8d561a64c5e9", 
             "Add win state\n\n"
         ], 
         [
             111, 
-            512, 
+            467, 
             "de577939a831f2a3586c992c6bfcbafb18447a7e", 
             "refactored to use new data layout\n\n"
         ], 
         [
             112, 
-            512, 
+            467, 
             "06761f71e056034125db5d4594c7ffbe69c28dea", 
             "Merge branch 'debug-support'\n\n"
         ], 
         [
             113, 
-            512, 
+            467, 
             "1966bf3a82dbe74198a40ef75ef70a6493f28bb1", 
             "Adding support for debug symbols.\n\n"
         ], 
         [
             114, 
-            512, 
+            484, 
             "819599d305655ff63f5bf90f5362fb996d772f90", 
             "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n"
         ], 
         [
             115, 
-            512, 
+            478, 
             "50d4d7b90a3fae5930707fca6b41250389fea180", 
             "new data strcuture for pile format\n\n"
         ], 
         [
             116, 
-            512, 
+            484, 
             "19001f3ea7b95af59bb209ec713cea7045a8973a", 
             "Clear screen\n\n"
         ], 
         [
             117, 
-            512, 
+            478, 
             "d8d6d1f42334dbdbd06597855f630b7ef0bdfea3", 
             "added status line and support for reading commands. Added support for jump tables\n\n"
         ], 
         [
             118, 
-            512, 
+            424, 
             "0016cb13d8e2cd2c70e47e988b7497009e22c84e", 
             "updated objdump syntax\n\n"
         ], 
         [
             119, 
-            512, 
+            424, 
             "907a48155d1407d6150dacb7e6e81793acb181fb", 
             "added support for the status messages\n\n"
         ], 
         [
             120, 
-            512, 
+            377, 
             "d545d0a13d65656e3ff45b6263c185dd169c68ea", 
             "added some fixmes\n\n"
         ], 
         [
             121, 
-            512, 
+            377, 
             "0a77e0e94df7ebf073785f66f0d1f1cd9be6f375", 
             "more macro cleanups\n\n"
         ], 
         [
             122, 
-            512, 
+            377, 
             "627f98dbd0cfc12fad673d814f722df33c24b628", 
             "added support for printing out the top stacks as well\n\n"
         ], 
         [
             123, 
-            512, 
+            352, 
             "e140c5f6c6cc9a06723e678af5b8be070c29698c", 
             "reset the card pointer when moving to the next stack\n\n"
         ], 
         [
             124, 
-            512, 
+            349, 
             "c171f59a43971bd37108d3e9a12eb05920263699", 
             "show the card value as a comment\n\n"
         ], 
         [
             125, 
-            512, 
+            349, 
             "c70f39b8be31618e7f69ca89814931a39a3b5302", 
             "move card pointer\n\n"
         ], 
         [
             126, 
-            512, 
+            346, 
             "0efc0c33b84e80970fc9f1105be8065c75b9670d", 
             "added objdump target\n\n"
         ], 
         [
             127, 
-            512, 
+            346, 
             "9d19f0005ea02e3264876731f0a8290f788e758f", 
             "added some more comments\n\n"
         ], 
         [
             128, 
-            512, 
+            346, 
             "a1b21a60584d66d0c4b93995224d5abe026e88ff", 
             "removed some dead code; added some comments; made other fetch_* subroutines consistent with the others\n\n"
         ], 
         [
             129, 
-            512, 
+            344, 
             "16c69ef37710ff153a84709cb87bc7ddb9a63baf", 
             "renamed some labels to make it a little cleaner\n\n"
         ], 
         [
             130, 
-            512, 
+            347, 
             "21433b87e53eea4da6cbcc076d1537d1c27082b5", 
             "commented out some code that isn't used yet\n\n"
         ], 
         [
             131, 
-            512, 
+            395, 
             "2eba25a8b2be0ffc1e0c62618412fa222d6f35d8", 
             "specify a unit for all non-zero numbers\n\n"
         ], 
         [
             132, 
-            512, 
+            395, 
             "e120fa8a2f3bd7c43d0621c704d0928a71796ed4", 
             "Replaced a literal 52 with 104. Fixed off-by-one error on number of lower pile comparison.\n\n"
         ], 
         [
             133, 
-            512, 
+            395, 
             "1936c35a60795bcb29911c644c24be68fda3ac98", 
             "generate list of card positions in the perl script\n\n"
         ], 
         [
             134, 
-            512, 
+            395, 
             "afaabda7279964b5d7b2c17d5c73715956010c58", 
             "Adding debugging notes to README\n\n"
         ], 
         [
             135, 
-            512, 
+            395, 
             "51505dd74881abbf0b714064f942a27217ab4213", 
             "Increment draw column\n\n"
         ], 
         [
             136, 
-            512, 
+            390, 
             "09f6cc737b53208938614b44660b6ca4e553c5ea", 
             "unused\n\n"
         ], 
         [
             137, 
-            512, 
+            390, 
             "5e628eb7917f40921bebdd3d4a7e77f22f443bfd", 
             "errors\n\n"
         ], 
         [
             138, 
-            512, 
+            388, 
             "620b75e791ae71a3e903009fc266997a0a578334", 
             "syntax\n\n"
         ], 
         [
             139, 
-            512, 
+            390, 
             "3775f3856baa7f8c857d92c465acb39db5bdf19a", 
             "register fixes\n\n"
         ], 
         [
             140, 
-            512, 
+            394, 
             "2d4ec9bc84c9c592fc6cee744c833b5dce8e53f0", 
             "broke it\n\n"
         ], 
         [
             141, 
-            512, 
+            394, 
             "0e1b247e2a642f6329bf4ef12549360941fbb57e", 
             "working on print_lower_stacks\n\n"
         ], 
         [
             142, 
-            512, 
+            388, 
             "796904029861f52e3d6b903ac5f1af0920a59f53", 
             "shortening some more\n\n"
         ], 
         [
             143, 
-            512, 
+            411, 
             "b46c9bac1de599eb4a4fd1455177097962a3b76f", 
             "removed some unused functions\n\n"
         ], 
         [
             144, 
-            512, 
+            657, 
+            "8f15b43a1819e047e13b321a4b1c15ff8b88e1aa", 
+            "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n"
+        ], 
+        [
+            145, 
+            572, 
+            "ab4966014e216706955948018c6177a08283b387", 
+            "syntax\n\n"
+        ], 
+        [
+            146, 
+            340, 
             "709ea32d39d8ade7a5a3bd46d0231bcac09fd3e3", 
             "Add user input loop\n\n"
         ], 
         [
-            145, 
-            512, 
+            147, 
+            294, 
             "0289498311937408a03712139833051e236fcf4a", 
             "minor cleanups\n\n"
         ], 
         [
-            146, 
-            512, 
+            148, 
+            274, 
             "d49d29397adadc722e97f0242d8e878cb39f4c6f", 
             "Fix print card\n\n"
         ], 
         [
-            147, 
-            512, 
+            149, 
+            275, 
             "97df476cecbac6e1281f13dee5fa994a23ebb84f", 
             "Merge branch 'master' of github.com:masneyb/boot2sol\n\n"
         ], 
         [
-            148, 
-            512, 
+            150, 
+            138, 
             "2cd40ceec03f3c479114fe8a6e1d268630af244e", 
             "Simplify print\n\n"
         ], 
         [
-            149, 
-            512, 
+            151, 
+            258, 
             "d1c51947f4bfab49288399646cc38f4c19405a51", 
             "adding draw_board subroutine to boot.asm\n\n"
         ], 
         [
-            150, 
-            512, 
+            152, 
+            121, 
             "af690adc37072dd6d53151b408c85f9ad558a0f2", 
             "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n"
         ], 
         [
-            151, 
-            512, 
+            153, 
+            49, 
             "3d7a8ba0262462e40a7266183f96fc0cf2067a12", 
             "subroutine for printing the game board\n\n"
         ], 
         [
-            152, 
-            512, 
+            154, 
+            121, 
             "501edcdf72f5ed0a998beaabe69995ba173fcc10", 
             "Create README.md\n"
         ], 
         [
-            153, 
-            512, 
+            155, 
+            121, 
             "7b127b91a01e6774ec545d12f5f0bef0b7e20e9b", 
             "Remove duplicate symobl\n\n"
         ], 
         [
-            154, 
-            512, 
+            156, 
+            121, 
             "8a7a53b1b7b4f7dc8de3a9e48d3ed873ec64b9d3", 
             "Add print_card\n\n"
         ], 
         [
-            155, 
-            512, 
+            157, 
+            95, 
             "87f25a1c8245e40cdcfad07c659c10c979ad1bf8", 
             "added remaining getters\n\n"
         ], 
         [
-            156, 
-            512, 
+            158, 
+            68, 
             "2c7d5819e88539e2455c61d38870d55bfc2530a8", 
             "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n"
         ], 
         [
-            157, 
-            512, 
+            159, 
+            95, 
             "79da9dca8dc4f6044f235598f4cbae24730eb5c8", 
             "fixed warning, added second card\n\n"
         ], 
         [
-            158, 
-            512, 
+            160, 
+            76, 
             "4bec7443470f9297d2fcac02a778890a7ec7ca14", 
             "added remaining getters\n\n"
         ], 
         [
-            159, 
-            512, 
+            161, 
+            76, 
             "e279a69b1e4378865154b99a24c47721685abd93", 
             "make a little more interesting\n\n"
         ], 
         [
-            160, 
-            512, 
+            162, 
+            49, 
             "49168c8dfe463240577d9081d8a0198d5c193093", 
             "Merge branch 'master' of github.com:masneyb/boot2sol\n\n"
         ], 
         [
-            161, 
-            512, 
+            163, 
+            49, 
             "623a982261cd1e91051bc594ab0e0e949cccf91f", 
             "Merge branch 'master' of github.com:masneyb/boot2sol\n\n"
         ], 
         [
-            162, 
-            512, 
+            164, 
+            45, 
             "d3c982c94f2c03e066efa2adf6cb54b07d04ff14", 
             "Add print function\n\n"
         ], 
         [
-            163, 
-            512, 
+            165, 
+            76, 
             "c8524716ef28265f7958f0f0d4a66b80b95e3bf3", 
             "Merge branch 'master' of https://github.com/masneyb/boot2sol\n\n"
         ], 
         [
-            164, 
-            512, 
+            166, 
+            76, 
             "091c0f1374f1e62bd619319475c04a1e23516605", 
             "add support for fetching some values\n\n"
         ], 
         [
-            165, 
-            512, 
+            167, 
+            76, 
             "8708d9131c1ee04f25aa996ec7f5271d447933e2", 
             "Update boot.asm\n\nupdated card data layout\n"
         ], 
         [
-            166, 
-            512, 
+            168, 
+            76, 
             "747283972806a116590d30512b3379325b1843f5", 
             "needs to be exactly 512 bytes\n\n"
         ], 
         [
-            167, 
-            516, 
+            169, 
+            76, 
             "37f0951e23003fde395623846b030a07f9b286ad", 
             "added bit mask\n\n"
         ], 
         [
-            168, 
-            512, 
+            170, 
+            72, 
             "59f1f12f5eee957b66db10023ddbe29024d204f1", 
             "initial commit\n\n"
         ]

@@ -34,7 +34,24 @@ while 1:
 
   try:
 
-    os.system('head -n $(($(wc -l < "boot.asm") - 2)) "boot.asm"')
+    # os.system('head -n $(($(wc -l < "boot.asm") - 2)) "boot.asm"')
+
+    lines = []
+
+    with open('boot.asm') as f:
+      for line in f:
+        if line.strip().startswith('dw 0AA5h'):
+          continue
+        elif line.strip().startswith('times 510-($-$$) db 0'):
+          continue
+        else:
+          lines.append(line)
+
+    outf = open('boot.asm', 'w')
+    for line in lines:
+      outf.write(line)
+
+    outf.close()
 
     os.system('make')
 
