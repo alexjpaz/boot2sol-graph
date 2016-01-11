@@ -8,7 +8,10 @@ class Expando(object):
 data = Expando()
 
 os.chdir('boot2sol')
+
 os.system('git clean -fd')
+os.system('git reset --hard origin/master')
+os.system('git pull')
 os.system('git reset --hard origin/master')
 
 p = os.popen('git log --format=%H', "r")
