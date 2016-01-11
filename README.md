@@ -1,3 +1,13 @@
-Run `make` to build a `data.json` model.
+Make sure your `nasm` version is up to date.
 
-Still need to work on the graph
+```
+brew upgrade nasm
+```
+
+Build and open
+
+```
+make
+```
+
+Then open [http://localhost:8000] or run `open http://localhost:8000`
