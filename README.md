@@ -10,4 +10,4 @@ Build and open
 make
 ```
 
-Then open [http://localhost:8000] or run `open http://localhost:8000`
+Then open [http://localhost:8000](http://localhost:8000) or run `open http://localhost:8000`
